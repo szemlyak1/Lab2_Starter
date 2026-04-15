@@ -1,3 +1,3 @@
 # Lab 2 - Starter
 
-[https://cse110-sp26-group22.github.io/cse110-sp26-group22/](https://szemlyak1.github.io/Lab2_Starter/)
+[https://szemlyak1.github.io/Lab2_Starter/](https://szemlyak1.github.io/Lab2_Starter/)
